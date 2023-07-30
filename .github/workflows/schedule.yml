@@ -1,0 +1,29 @@
+name: Scheduled Update
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron:  '30 0 * * *'
+concurrency: commit
+jobs:
+  fetch:
+    name: Fetch data, and commit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Config git user
+        run: |
+          git config user.name "Russell Smith"
+          git config user.email ukd1@users.noreply.github.com
+      - name: Update from LVMS
+        run: |
+          bundle exec ruby main.rb > las-vegas-car-scene-network-events.ics
+          git add las-vegas-car-scene-network-events.ics
+      - name: Commit, and push repo
+        run: |
+          git commit -m "Updated events in run ${GITHUB_RUN_NUMBER}" || true
+          git push || true
+
