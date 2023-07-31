@@ -27,7 +27,7 @@ doc.css('#items-container div.tb-item').each do |item|
   id = item.css('.alert-me-event').attribute('data-event_id')&.value
   name = item.css('.tb-item-info h3').text.split('-').first.strip
   date = item.css('.date span').text.split(' ').last.strip
-  url = item.css('.alert-me-event').attribute('href')&.value
+  url = item.css('.btn-success').attribute('href')&.value || item.css('.alert-me-event').attribute('href')&.value
 
   dtstart = Date.strptime(date, '%m/%d/%Y')
   dtend = dtstart+1
