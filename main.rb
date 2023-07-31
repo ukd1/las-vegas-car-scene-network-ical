@@ -74,7 +74,7 @@ event_by_id.each do |id, event|
   puts "DTSTAMP:#{"%04d%02d%02d" % [event[:dtstart].year, event[:dtstart].month, event[:dtstart].day]}T000000Z"
   puts "DTSTART;VALUE=DATE:#{"%04d%02d%02d" % [event[:dtstart].year, event[:dtstart].month, event[:dtstart].day]}"
   puts "DTEND;VALUE=DATE:#{"%04d%02d%02d" % [event[:dtend].year, event[:dtend].month, event[:dtend].day]}"
-  puts "ORGANIZER;CN=LVMS:MAILTO:info@lasvegascarmeets.com"
+  puts "ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com"
   # puts "GEO:36.2724;-115.0104"
   puts "END:VEVENT"
 end

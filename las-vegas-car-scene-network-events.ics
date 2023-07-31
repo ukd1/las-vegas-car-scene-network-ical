@@ -15,7 +15,7 @@ LOCATION:5660 S Hualapai Way Suite 104, Las vegas, NV, 89148, United States
 DTSTAMP:20230812T000000Z
 DTSTART;VALUE=DATE:20230812
 DTEND;VALUE=DATE:20230813
-ORGANIZER;CN=LVMS:MAILTO:info@lasvegascarmeets.com
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+-+August+23rd/tickets/id-CLkH_MGclQpS/
@@ -25,7 +25,7 @@ LOCATION:8349 W Sunset Rd #150, Las Vegas, NV, 89113, United States
 DTSTAMP:20230823T000000Z
 DTSTART;VALUE=DATE:20230823
 DTEND;VALUE=DATE:20230824
-ORGANIZER;CN=LVMS:MAILTO:info@lasvegascarmeets.com
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+September+6th/tickets/id-x9Yl6Ui2Rl-_/
@@ -35,7 +35,7 @@ LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
 DTSTAMP:20230906T000000Z
 DTSTART;VALUE=DATE:20230906
 DTEND;VALUE=DATE:20230907
-ORGANIZER;CN=LVMS:MAILTO:info@lasvegascarmeets.com
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
 UID:LVCSN-241201-https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+Trunk+or+Treat+-+October+18th/tickets/id-jprTsFCVD5mE/
@@ -45,7 +45,7 @@ LOCATION:8349 W Sunset Rd #150, Las Vegas, NV, 89113, United States
 DTSTAMP:20231018T000000Z
 DTSTART;VALUE=DATE:20231018
 DTEND;VALUE=DATE:20231019
-ORGANIZER;CN=LVMS:MAILTO:info@lasvegascarmeets.com
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
 UID:LVCSN-241386-https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+November+15th/tickets/id-QhLOfZvqr1gc/
@@ -55,7 +55,7 @@ LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
 DTSTAMP:20231115T000000Z
 DTSTART;VALUE=DATE:20231115
 DTEND;VALUE=DATE:20231116
-ORGANIZER;CN=LVMS:MAILTO:info@lasvegascarmeets.com
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
 UID:LVCSN-241202-https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+Toy+Drive+-+December+13th/tickets/id-UrrpahYFXEqu/
@@ -65,6 +65,6 @@ LOCATION:8349 W Sunset Rd #150, Las Vegas, NV, 89113, United States
 DTSTAMP:20231213T000000Z
 DTSTART;VALUE=DATE:20231213
 DTEND;VALUE=DATE:20231214
-ORGANIZER;CN=LVMS:MAILTO:info@lasvegascarmeets.com
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 END:VCALENDAR
