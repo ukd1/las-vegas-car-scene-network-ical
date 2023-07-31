@@ -28,8 +28,12 @@ doc.css('#items-container div.tb-item').each do |item|
   name = item.css('.tb-item-info h3').text.split('-').first.strip
   date = item.css('.date span').text.split(' ').last.strip
   url = item.css('.alert-me-event').attribute('href')&.value
+
   dtstart = Date.strptime(date, '%m/%d/%Y')
   dtend = dtstart+1
+
+  # some events don't actually have an ID...?
+  id = "#{id}-#{url}"
 
   location = item.css('.tb-item-info a').last.attribute('href')&.value
   locations_by_url[location] ||= {}
@@ -61,7 +65,7 @@ end
 
 event_by_id.each do |id, event|
   puts "BEGIN:VEVENT"
-  puts "UID:LLVMS-#{id}"
+  puts "UID:LVCSN-#{id}"
   puts "SUMMARY:#{event[:name]}"
   puts "URL:#{event[:url]}"
   puts "LOCATION:#{locations_by_url[event[:location]][:address]}"
