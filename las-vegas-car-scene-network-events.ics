@@ -8,29 +8,9 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-MDgiUJPu3awE/
-SUMMARY:Supercar Social at Alchemy Coffee
-URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-MDgiUJPu3awE/
-LOCATION:5660 S Hualapai Way Suite 104, Las vegas, NV, 89148, United States
-DTSTAMP:20230812T000000Z
-DTSTART;VALUE=DATE:20230812
-DTEND;VALUE=DATE:20230813
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+-+August+23rd/tickets/id-CLkH_MGclQpS/
-SUMMARY:Cars at the Cantina
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+-+August+23rd/tickets/id-CLkH_MGclQpS/
-LOCATION:8349 W Sunset Rd #150, Las Vegas, NV, 89113, United States
-DTSTAMP:20230823T000000Z
-DTSTART;VALUE=DATE:20230823
-DTEND;VALUE=DATE:20230824
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+September+6th/tickets/id-x9Yl6Ui2Rl-_/
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+September+13th/tickets/id-x9Yl6Ui2Rl-_/
 SUMMARY:Cars in the Arts at 18Bin
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+September+6th/tickets/id-x9Yl6Ui2Rl-_/
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+September+13th/tickets/id-x9Yl6Ui2Rl-_/
 LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
 DTSTAMP:20230906T000000Z
 DTSTART;VALUE=DATE:20230906
@@ -48,7 +28,7 @@ DTEND;VALUE=DATE:20231019
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
-UID:LVCSN-241386-https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+November+15th/tickets/id-QhLOfZvqr1gc/
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+November+15th/tickets/id-QhLOfZvqr1gc/
 SUMMARY:Cars in the Arts at 18Bin
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+November+15th/tickets/id-QhLOfZvqr1gc/
 LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
