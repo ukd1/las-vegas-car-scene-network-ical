@@ -12,9 +12,9 @@ UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bi
 SUMMARY:Cars in the Arts at 18Bin
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+September+13th/tickets/id-x9Yl6Ui2Rl-_/
 LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
-DTSTAMP:20230906T000000Z
-DTSTART;VALUE=DATE:20230906
-DTEND;VALUE=DATE:20230907
+DTSTAMP:20230913T000000Z
+DTSTART;VALUE=DATE:20230913
+DTEND;VALUE=DATE:20230914
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
