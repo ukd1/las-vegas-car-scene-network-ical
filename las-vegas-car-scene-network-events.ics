@@ -18,6 +18,16 @@ DTEND;VALUE=DATE:20230914
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-mZzCsfFlRxPb/
+SUMMARY:Supercar Social at Alchemy Coffee
+URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-mZzCsfFlRxPb/
+LOCATION:5660 S Hualapai Way Suite 104, Las vegas, NV, 89148, United States
+DTSTAMP:20230923T000000Z
+DTSTART;VALUE=DATE:20230923
+DTEND;VALUE=DATE:20230924
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
 UID:LVCSN-241201-https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+Trunk+or+Treat+-+October+18th/tickets/id-jprTsFCVD5mE/
 SUMMARY:Cars at the Cantina Trunk or Treat
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+Trunk+or+Treat+-+October+18th/tickets/id-jprTsFCVD5mE/
