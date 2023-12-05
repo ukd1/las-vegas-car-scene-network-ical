@@ -17,4 +17,14 @@ DTSTART;VALUE=DATE:20231213
 DTEND;VALUE=DATE:20231214
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+-+December/tickets/id-Zn58PUd2AtZw/
+SUMMARY:Cars & Cafe
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+-+December/tickets/id-Zn58PUd2AtZw/
+LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
+DTSTAMP:20231216T000000Z
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231217
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
 END:VCALENDAR
