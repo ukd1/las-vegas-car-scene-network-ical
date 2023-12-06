@@ -27,4 +27,14 @@ DTSTART;VALUE=DATE:20231216
 DTEND;VALUE=DATE:20231217
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee+-+December/tickets/id-zaIKMHtzMHy0/
+SUMMARY:Supercar Social at Alchemy Coffee
+URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee+-+December/tickets/id-zaIKMHtzMHy0/
+LOCATION:5660 S Hualapai Way Suite 104, Las vegas, NV, 89148, United States
+DTSTAMP:20231230T000000Z
+DTSTART;VALUE=DATE:20231230
+DTEND;VALUE=DATE:20231231
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
 END:VCALENDAR
