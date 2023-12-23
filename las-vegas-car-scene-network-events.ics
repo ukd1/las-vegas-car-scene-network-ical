@@ -18,6 +18,26 @@ DTEND;VALUE=DATE:20231231
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College+Diner/tickets/id-j9KDlbh_BiC7/
+SUMMARY:Cars & Cafe at Las Vegas College Diner
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College+Diner/tickets/id-j9KDlbh_BiC7/
+LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
+DTSTAMP:20240113T000000Z
+DTSTART;VALUE=DATE:20240113
+DTEND;VALUE=DATE:20240114
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin/tickets/id-lQ9amDYLiKlR/
+SUMMARY:Cars in the Arts at 18Bin
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin/tickets/id-lQ9amDYLiKlR/
+LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
+DTSTAMP:20240117T000000Z
+DTSTART;VALUE=DATE:20240117
+DTEND;VALUE=DATE:20240118
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-J8o7koos-js_/
 SUMMARY:Supercar Social at Alchemy Coffee
 URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-J8o7koos-js_/
