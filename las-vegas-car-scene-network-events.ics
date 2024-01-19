@@ -8,16 +8,6 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin/tickets/id-lQ9amDYLiKlR/
-SUMMARY:Cars in the Arts at 18Bin
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin/tickets/id-lQ9amDYLiKlR/
-LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
-DTSTAMP:20240117T000000Z
-DTSTART;VALUE=DATE:20240117
-DTEND;VALUE=DATE:20240118
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-J8o7koos-js_/
 SUMMARY:Supercar Social at Alchemy Coffee
 URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+Alchemy+Coffee/tickets/id-J8o7koos-js_/
