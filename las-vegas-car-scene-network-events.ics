@@ -17,4 +17,14 @@ DTSTART;VALUE=DATE:20240127
 DTEND;VALUE=DATE:20240128
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+-+February/tickets/id-ScyWYXgOoOKW/
+SUMMARY:Cars at the Cantina
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+-+February/tickets/id-ScyWYXgOoOKW/
+LOCATION:8349 W Sunset Rd #150, Las Vegas, NV, 89113, United States
+DTSTAMP:20240221T000000Z
+DTSTART;VALUE=DATE:20240221
+DTEND;VALUE=DATE:20240222
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
 END:VCALENDAR
