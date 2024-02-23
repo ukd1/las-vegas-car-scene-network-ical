@@ -7,14 +7,4 @@ UID:https://github.com/ukd1/las-vegas-car-scene-network-ical
 URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
-BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+-+February/tickets/id-ScyWYXgOoOKW/
-SUMMARY:Cars at the Cantina
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+at+the+Cantina+-+February/tickets/id-ScyWYXgOoOKW/
-LOCATION:8349 W Sunset Rd #150, Las Vegas, NV, 89113, United States
-DTSTAMP:20240221T000000Z
-DTSTART;VALUE=DATE:20240221
-DTEND;VALUE=DATE:20240222
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
 END:VCALENDAR
