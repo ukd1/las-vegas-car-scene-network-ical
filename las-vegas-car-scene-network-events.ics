@@ -17,4 +17,14 @@ DTSTART;VALUE=DATE:20240309
 DTEND;VALUE=DATE:20240310
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+March+20th/tickets/id-TETSbjSbVD0r/
+SUMMARY:Cars in the Arts at 18Bin
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+March+20th/tickets/id-TETSbjSbVD0r/
+LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
+DTSTAMP:20240320T000000Z
+DTSTART;VALUE=DATE:20240320
+DTEND;VALUE=DATE:20240321
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
 END:VCALENDAR
