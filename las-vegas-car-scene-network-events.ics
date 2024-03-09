@@ -8,9 +8,9 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Vendors+-+Cars+%26+Cafe+at+Las+Vegas+College+Diner/tickets/id-nuws9pfg3Skg/
+UID:LVCSN--
 SUMMARY:Vendors
-URL:https://tickets.thefoat.com/lasvegascarmeets/Vendors+-+Cars+%26+Cafe+at+Las+Vegas+College+Diner/tickets/id-nuws9pfg3Skg/
+URL:
 LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
 DTSTAMP:20240309T000000Z
 DTSTART;VALUE=DATE:20240309
