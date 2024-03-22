@@ -7,14 +7,4 @@ UID:https://github.com/ukd1/las-vegas-car-scene-network-ical
 URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
-BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+March+20th/tickets/id-TETSbjSbVD0r/
-SUMMARY:Cars in the Arts at 18Bin
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+March+20th/tickets/id-TETSbjSbVD0r/
-LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
-DTSTAMP:20240320T000000Z
-DTSTART;VALUE=DATE:20240320
-DTEND;VALUE=DATE:20240321
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
 END:VCALENDAR
