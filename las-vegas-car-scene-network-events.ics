@@ -8,16 +8,6 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/360+Carshow+pre-meet+night/tickets/id-zx0MNknB-AmN/
-SUMMARY:360 Carshow pre
-URL:https://tickets.thefoat.com/lasvegascarmeets/360+Carshow+pre-meet+night/tickets/id-zx0MNknB-AmN/
-LOCATION:628 W. Craig Road North Las Vegas, NV, NORTH LAS VEGAS, NV, 89030, United States
-DTSTAMP:20240503T000000Z
-DTSTART;VALUE=DATE:20240503
-DTEND;VALUE=DATE:20240504
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+May+22nd/tickets/id-DoWUhcNMj9eL/
 SUMMARY:Cars in the Arts at 18Bin
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+at+18Bin+-+May+22nd/tickets/id-DoWUhcNMj9eL/
