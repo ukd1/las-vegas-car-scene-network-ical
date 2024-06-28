@@ -18,6 +18,16 @@ DTEND;VALUE=DATE:20240718
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Motors+and+Muscles+at+Fit+Club+LV/tickets/id-ZSyiRKR79tcv/
+SUMMARY:Motors and Muscles at Fit Club LV
+URL:https://tickets.thefoat.com/lasvegascarmeets/Motors+and+Muscles+at+Fit+Club+LV/tickets/id-ZSyiRKR79tcv/
+LOCATION:4525 W Hacienda Ave # 2, Las Vegas, NV, 89118, United States
+DTSTAMP:20240721T000000Z
+DTSTART;VALUE=DATE:20240721
+DTEND;VALUE=DATE:20240722
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Premier+Auto+Show+-+Las+Vegas/tickets/id-R5iJZG5CD8NF/
 SUMMARY:Premier Auto Show
 URL:https://tickets.thefoat.com/lasvegascarmeets/Premier+Auto+Show+-+Las+Vegas/tickets/id-R5iJZG5CD8NF/
