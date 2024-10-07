@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20241121
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Race+Week+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
-SUMMARY:Race Week Cars and Coffee at Resorts World
-URL:https://tickets.thefoat.com/lasvegascarmeets/Race+Week+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/S7+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
+SUMMARY:S7 Cars and Coffee at Resorts World
+URL:https://tickets.thefoat.com/lasvegascarmeets/S7+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
 LOCATION:3000 S Las Vegas Blvd, Las Vegas, NV, 89109, United States
 DTSTAMP:20241123T000000Z
 DTSTART;VALUE=DATE:20241123
