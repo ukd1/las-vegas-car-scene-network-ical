@@ -8,6 +8,16 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Trunk+or+Treat+Halloween+Carnival/tickets/id-qh2nFf0o7QG7/
+SUMMARY:Trunk or Treat Halloween Carnival
+URL:https://tickets.thefoat.com/lasvegascarmeets/Trunk+or+Treat+Halloween+Carnival/tickets/id-qh2nFf0o7QG7/
+LOCATION:628 W. Craig Road North Las Vegas, NV, NORTH LAS VEGAS, NV, 89030, United States
+DTSTAMP:20241031T000000Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+Three+Square+Food+Drive/tickets/id-OziraJSOlHl4/
 SUMMARY:Cars in the Arts
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+Three+Square+Food+Drive/tickets/id-OziraJSOlHl4/
