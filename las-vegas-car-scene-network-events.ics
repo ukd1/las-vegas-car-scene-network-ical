@@ -18,6 +18,16 @@ DTEND;VALUE=DATE:20241101
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+%2B+Rally+to+Royal+Fitment+Car+Show/tickets/id-awKKqW3f-fcu/
+SUMMARY:Cars & Cafe + Rally to Royal Fitment Car Show
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+%2B+Rally+to+Royal+Fitment+Car+Show/tickets/id-awKKqW3f-fcu/
+LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+Three+Square+Food+Drive/tickets/id-OziraJSOlHl4/
 SUMMARY:Cars in the Arts
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+Three+Square+Food+Drive/tickets/id-OziraJSOlHl4/
