@@ -47,4 +47,14 @@ DTSTART;VALUE=DATE:20241123
 DTEND;VALUE=DATE:20241124
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Battle+Born+Toyotas+-+Cruise+For+Tots/tickets/id-rLEftgGifLd3/
+SUMMARY:Battle Born Toyotas
+URL:https://tickets.thefoat.com/lasvegascarmeets/Battle+Born+Toyotas+-+Cruise+For+Tots/tickets/id-rLEftgGifLd3/
+LOCATION:310 NV-161, Goodsprings, NV, 89019, United States
+DTSTAMP:20241124T000000Z
+DTSTART;VALUE=DATE:20241124
+DTEND;VALUE=DATE:20241125
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
 END:VCALENDAR
