@@ -8,9 +8,9 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+%2B+Rally+to+Royal+Fitment+Car+Show/tickets/id-awKKqW3f-fcu/
+UID:LVCSN--
 SUMMARY:Cars & Cafe + Rally to Royal Fitment Car Show
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+%2B+Rally+to+Royal+Fitment+Car+Show/tickets/id-awKKqW3f-fcu/
+URL:
 LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
 DTSTAMP:20241109T000000Z
 DTSTART;VALUE=DATE:20241109
