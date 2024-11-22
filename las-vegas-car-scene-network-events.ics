@@ -8,16 +8,6 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+Three+Square+Food+Drive/tickets/id-OziraJSOlHl4/
-SUMMARY:Cars in the Arts
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+Three+Square+Food+Drive/tickets/id-OziraJSOlHl4/
-LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
-DTSTAMP:20241120T000000Z
-DTSTART;VALUE=DATE:20241120
-DTEND;VALUE=DATE:20241121
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/S7+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
 SUMMARY:S7 Cars and Coffee at Resorts World
 URL:https://tickets.thefoat.com/lasvegascarmeets/S7+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
