@@ -8,22 +8,12 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/S7+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
+UID:LVCSN--
 SUMMARY:S7 Cars and Coffee at Resorts World
-URL:https://tickets.thefoat.com/lasvegascarmeets/S7+Cars+and+Coffee+at+Resorts+World/tickets/id-e5ycozZeJ2aB/
+URL:
 LOCATION:3000 S Las Vegas Blvd, Las Vegas, NV, 89109, United States
 DTSTAMP:20241123T000000Z
 DTSTART;VALUE=DATE:20241123
-DTEND;VALUE=DATE:20241124
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Battle+Born+Toyotas+-+Cruise+For+Tots/tickets/id-rLEftgGifLd3/
-SUMMARY:Battle Born Toyotas
-URL:https://tickets.thefoat.com/lasvegascarmeets/Battle+Born+Toyotas+-+Cruise+For+Tots/tickets/id-rLEftgGifLd3/
-LOCATION:310 NV-161, Goodsprings, NV, 89019, United States
-DTSTAMP:20241124T000000Z
-DTSTART;VALUE=DATE:20241124
 DTEND;VALUE=DATE:20241125
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
