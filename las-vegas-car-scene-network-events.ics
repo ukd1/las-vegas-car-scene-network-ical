@@ -7,14 +7,4 @@ UID:https://github.com/ukd1/las-vegas-car-scene-network-ical
 URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
-BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+January+2025/tickets/id-_2WBApS0eNVk/
-SUMMARY:Cars in the Arts
-URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+January+2025/tickets/id-_2WBApS0eNVk/
-LOCATION:107 E Charleston Blvd #150, Las Vegas, NV, 89104, United States
-DTSTAMP:20250115T000000Z
-DTSTART;VALUE=DATE:20250115
-DTEND;VALUE=DATE:20250116
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
 END:VCALENDAR
