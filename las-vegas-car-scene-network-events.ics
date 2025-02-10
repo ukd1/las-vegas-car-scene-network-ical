@@ -8,16 +8,6 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--
-SUMMARY:Cars & Cafe at Las Vegas College
-URL:
-LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
-DTSTAMP:20250208T000000Z
-DTSTART;VALUE=DATE:20250208
-DTEND;VALUE=DATE:20250209
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+March+2025/tickets/id-Sv68wsuL2KhX/
 SUMMARY:Cars in the Arts
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+March+2025/tickets/id-Sv68wsuL2KhX/
