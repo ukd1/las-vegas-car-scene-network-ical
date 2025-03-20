@@ -17,4 +17,24 @@ DTSTART;VALUE=DATE:20250319
 DTEND;VALUE=DATE:20250320
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+DRVN/tickets/id-C5FqfKISvVP3/
+SUMMARY:Supercar Social at DRVN
+URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+DRVN/tickets/id-C5FqfKISvVP3/
+LOCATION:2687 S Sammy Davis Jr Dr, Las Vegas, NV, 89109, United States
+DTSTAMP:20250329T000000Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College/tickets/id-YjZ-6eJO4YRM/
+SUMMARY:Cars & Cafe at Las Vegas College
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College/tickets/id-YjZ-6eJO4YRM/
+LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
 END:VCALENDAR
