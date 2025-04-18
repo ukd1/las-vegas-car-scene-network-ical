@@ -8,6 +8,46 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+and+Christ+-+Vendors+Signup/tickets/id-mp2073CDy7Ip/
+SUMMARY:Cars and Christ
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+and+Christ+-+Vendors+Signup/tickets/id-mp2073CDy7Ip/
+LOCATION:2025 E Sahara Ave, Las Vegas NV, Las Vegas, NV, 89104, United States
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/360+Carshow+at+Flavors+of+Aloha+-+Vendors+Signup/tickets/id-27-oSwjvxLkp/
+SUMMARY:360 Carshow at Flavors of Aloha
+URL:https://tickets.thefoat.com/lasvegascarmeets/360+Carshow+at+Flavors+of+Aloha+-+Vendors+Signup/tickets/id-27-oSwjvxLkp/
+LOCATION:628 W. Craig Road North Las Vegas, NV, NORTH LAS VEGAS, NV, 89030, United States
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+DRVN/tickets/id-TsJuQYMm03u8/
+SUMMARY:Supercar Social at DRVN
+URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+at+DRVN/tickets/id-TsJuQYMm03u8/
+LOCATION:2687 S Sammy Davis Jr Dr, Las Vegas, NV, 89109, United States
+DTSTAMP:20250504T000000Z
+DTSTART;VALUE=DATE:20250504
+DTEND;VALUE=DATE:20250505
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College/tickets/id-PN5CjSjbY3Rk/
+SUMMARY:Cars & Cafe at Las Vegas College
+URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College/tickets/id-PN5CjSjbY3Rk/
+LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+May+21st+2025/tickets/id-Gi2unZixfVOJ/
 SUMMARY:Cars in the Arts
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+in+the+Arts+-+May+21st+2025/tickets/id-Gi2unZixfVOJ/
