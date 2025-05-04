@@ -8,9 +8,9 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/360+Carshow+at+Flavors+of+Aloha+-+Vendors+Signup/tickets/id-27-oSwjvxLkp/
+UID:LVCSN--
 SUMMARY:360 Carshow at Flavors of Aloha
-URL:https://tickets.thefoat.com/lasvegascarmeets/360+Carshow+at+Flavors+of+Aloha+-+Vendors+Signup/tickets/id-27-oSwjvxLkp/
+URL:
 LOCATION:628 W. Craig Road North Las Vegas, NV, NORTH LAS VEGAS, NV, 89030, United States
 DTSTAMP:20250503T000000Z
 DTSTART;VALUE=DATE:20250503
