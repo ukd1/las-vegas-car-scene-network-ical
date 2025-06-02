@@ -8,16 +8,6 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+First+Friday+Edition/tickets/id--ctrc0qfDKE4/
-SUMMARY:Supercar Social First Friday Edition
-URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+First+Friday+Edition/tickets/id--ctrc0qfDKE4/
-LOCATION:2687 S Sammy Davis Jr Dr, Las Vegas, NV, 89109, United States
-DTSTAMP:20250606T000000Z
-DTSTART;VALUE=DATE:20250606
-DTEND;VALUE=DATE:20250607
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
-BEGIN:VEVENT
 UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College+-+June+14th/tickets/id-NKQX8rab5g7G/
 SUMMARY:Cars & Cafe at Las Vegas College
 URL:https://tickets.thefoat.com/lasvegascarmeets/Cars+%26+Cafe+at+Las+Vegas+College+-+June+14th/tickets/id-NKQX8rab5g7G/
@@ -25,6 +15,16 @@ LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
 DTSTAMP:20250614T000000Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
+ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
+END:VEVENT
+BEGIN:VEVENT
+UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+Father%27s+Day+Edition/tickets/id--ctrc0qfDKE4/
+SUMMARY:Supercar Social Father's Day Edition
+URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+Father%27s+Day+Edition/tickets/id--ctrc0qfDKE4/
+LOCATION:2687 S Sammy Davis Jr Dr, Las Vegas, NV, 89109, United States
+DTSTAMP:20250615T000000Z
+DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250616
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 END:VCALENDAR
