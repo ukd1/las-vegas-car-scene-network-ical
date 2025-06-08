@@ -18,9 +18,9 @@ DTEND;VALUE=DATE:20250615
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+Father%27s+Day+Edition/tickets/id--ctrc0qfDKE4/
+UID:LVCSN--
 SUMMARY:Supercar Social Father's Day Edition
-URL:https://tickets.thefoat.com/lasvegascarmeets/Supercar+Social+Father%27s+Day+Edition/tickets/id--ctrc0qfDKE4/
+URL:
 LOCATION:2687 S Sammy Davis Jr Dr, Las Vegas, NV, 89109, United States
 DTSTAMP:20250615T000000Z
 DTSTART;VALUE=DATE:20250615
