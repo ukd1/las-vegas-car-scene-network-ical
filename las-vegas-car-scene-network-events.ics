@@ -9,11 +9,11 @@ SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-netw
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
 UID:LVCSN--
-SUMMARY:Cars & Cafe at Las Vegas College
+SUMMARY:Supercar Social Father's Day Edition
 URL:
-LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
-DTSTAMP:20250614T000000Z
-DTSTART;VALUE=DATE:20250614
+LOCATION:2687 S Sammy Davis Jr Dr, Las Vegas, NV, 89109, United States
+DTSTAMP:20250615T000000Z
+DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
 ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
 END:VEVENT
