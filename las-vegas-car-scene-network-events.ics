@@ -8,9 +8,9 @@ URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
 BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Diner+Drive-In+at+Las+Vegas+College+-+July+12th/tickets/id-ZJJ6JK7VggLy/
+UID:LVCSN--
 SUMMARY:Diner Drive
-URL:https://tickets.thefoat.com/lasvegascarmeets/Diner+Drive-In+at+Las+Vegas+College+-+July+12th/tickets/id-ZJJ6JK7VggLy/
+URL:
 LOCATION:8410 Rafael Rivera Way, Las Vegas, NV, 89113, United States
 DTSTAMP:20250712T000000Z
 DTSTART;VALUE=DATE:20250712
