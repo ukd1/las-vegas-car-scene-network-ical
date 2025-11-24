@@ -7,14 +7,4 @@ UID:https://github.com/ukd1/las-vegas-car-scene-network-ical
 URL:https://github.com/ukd1/las-vegas-car-scene-network-ical
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/las-vegas-car-scene-network-ical/main/las-vegas-car-scene-network-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://tickets.thefoat.com/images/tb/hosts/banner_img_16740224611ad95f.png
-BEGIN:VEVENT
-UID:LVCSN--https://tickets.thefoat.com/lasvegascarmeets/Race+Weekend+Block+Party+at+AREA+15/tickets/id-HxmdeXaLtozB/
-SUMMARY:Race Weekend Block Party at AREA 15
-URL:https://tickets.thefoat.com/lasvegascarmeets/Race+Weekend+Block+Party+at+AREA+15/tickets/id-HxmdeXaLtozB/
-LOCATION:3215 S Rancho Dr, Las Vegas, NV, 89102, United States
-DTSTAMP:20251122T000000Z
-DTSTART;VALUE=DATE:20251122
-DTEND;VALUE=DATE:20251123
-ORGANIZER;CN=Car Scene Network:MAILTO:info@lasvegascarmeets.com
-END:VEVENT
 END:VCALENDAR
